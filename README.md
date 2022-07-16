@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Farhan and I am a fullstack developer who was completely self-taught. 
+My name is Farhan and I am a fullstack developer who was completely self-taught. I also hold a CEHv11 certificate and more on the way.
 <!--
 **FXGalvatron/FXGalvatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
